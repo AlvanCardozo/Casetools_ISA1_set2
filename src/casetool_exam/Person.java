@@ -11,6 +11,8 @@ public class Person {
 		return name;
 	}
 
-	
+	public int Getage() {
+		return age;
+	}
 
 }
